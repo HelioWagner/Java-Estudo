@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="conditionHistory">
+		<item key="conditionHistoryEntry_0" value="i == 50"/>
+		<item key="conditionHistoryEntryCount" value="4"/>
+		<item key="conditionHistoryEntry_1" value="i = 50"/>
+		<item key="conditionHistoryEntry_2" value="i &gt; 10"/>
+		<item key="conditionHistoryEntry_3" value="produto.getDescricao().equals(&quot;Cadeira Racing Gamer&quot;)"/>
+	</section>
+	<section name="expressionHistory">
+	</section>
+	<section name="AddExceptionDialog">
+		<item key="caughtChecked" value="true"/>
+		<item key="uncaughtChecked" value="true"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="816"/>
+		<item key="HEIGHT" value="256"/>
+		<item key="SashWeightTree" value="500"/>
+		<item key="SashWeightDetails" value="500"/>
+	</section>
+</section>

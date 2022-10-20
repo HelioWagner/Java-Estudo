@@ -1,0 +1,55 @@
+
+public class Strings_Object {
+
+	public static void main(String[] args) {
+		String nome = "Hélio";		
+		//System.out.println( nome.replace("H","O"));
+		
+		 Integer val1 = Integer.valueOf("1010", 8);
+	        System.out.println(val1);
+		
+		
+	//	String s = "helio";		  
+     //   char ch = s.charAt(5);
+     //   System.out.println(ch);  
+    //    ch = s.charAt(0);
+       // System.out.println(ch);
+        
+//		System.out.println( nome.toUpperCase());
+//		System.out.println( nome.toLowerCase());
+//		System.out.println(nome.indexOf("i")); //pega a posição que tem o caracter
+//		System.out.println(nome.charAt(4));//pega o caracter na posição informada
+//		System.out.println(nome.length());//quantidade de caracteres
+//		System.out.println(nome.isEmpty());//retorna se está vazia
+//		System.out.println(nome.contains("li"));//verifica se existe a palavra na variavel
+//		
+//		String texto = "Socorram";
+//		texto = texto.concat("-");
+//		texto = texto.concat("me");
+//		texto = texto.concat(", ");
+//		texto = texto.concat("subi ");
+//		texto = texto.concat("no ");
+//		texto = texto.concat("ônibus ");
+//		texto = texto.concat("em ");
+//		texto = texto.concat("Marrocos");
+//		System.out.println(texto); 
+//		  
+////		Nesse pequeno exemplo já criamos vários objetos, só porque estamos concatenando algumas Strings.
+////Isso é nada bom pensando no desempenho e para resolver isso existe a classe StringBuilder que ajuda na concatenação de Strings de forma mais eficiente.
+////		Veja o mesmo código usando o StringBuilder:
+//		
+//		StringBuilder builder = new StringBuilder("Socorram");
+//		builder.append("-");
+//		builder.append("me");
+//		builder.append(", ");
+//		builder.append("subi ");
+//		builder.append("no ");
+//		builder.append("ônibus ");
+//		builder.append("em ");
+//		builder.append("Marrocos");
+//		String texto2 = builder.toString();
+//		System.out.println(texto2);
+
+	}
+
+}

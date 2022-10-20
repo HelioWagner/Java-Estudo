@@ -1,0 +1,8 @@
+ String modelo;
+    String tensao;
+    int garantiaMeses;
+    int potencia;
+    String cor;
+    String tipoLuz;
+    String tipoAbajur;
+    String tipo[];

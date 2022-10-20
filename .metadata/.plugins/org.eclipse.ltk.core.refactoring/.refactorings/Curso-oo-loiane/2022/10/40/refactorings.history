@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TesteCarro.java&apos; to &apos;Curso-oo-loiane/src/com.loiane.cursojava.exec25&apos;&#x0D;&#x0A;- Original project: &apos;Curso-oo-loiane&apos;&#x0D;&#x0A;- Destination element: &apos;Curso-oo-loiane/src/com.loiane.cursojava.exec25&apos;&#x0D;&#x0A;- Original element: &apos;com.loiane.cursojava.aula24.TesteCarro.java&apos;" description="Copy compilation unit" destination="/src&lt;com.loiane.cursojava.exec25" element1="/src&lt;com.loiane.cursojava.aula24{TesteCarro.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664629279582" units="1" version="1.0"/>
+</session>

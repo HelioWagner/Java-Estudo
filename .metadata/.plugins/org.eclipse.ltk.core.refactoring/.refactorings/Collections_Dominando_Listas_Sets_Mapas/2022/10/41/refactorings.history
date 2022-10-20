@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Aula.java&apos; to &apos;Comandos_exemplos/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Collections_Dominando_Listas_Sets_Mapas&apos;&#x0D;&#x0A;- Destination element: &apos;Comandos_exemplos/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;Trabalhando_Com_Array_Lista.Aula.java&apos;" description="Copy compilation unit" destination="=Comandos_exemplos/src&lt;" element1="/src&lt;Trabalhando_Com_Array_Lista{Aula.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664877964150" units="1" version="1.0"/>
+</session>
